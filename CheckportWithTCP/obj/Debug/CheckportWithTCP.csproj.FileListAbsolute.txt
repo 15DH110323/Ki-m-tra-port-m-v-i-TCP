@@ -1,0 +1,7 @@
+D:\New folder (2)\LTM\CheckportWithTCP\CheckportWithTCP\bin\Debug\CheckportWithTCP.exe.config
+D:\New folder (2)\LTM\CheckportWithTCP\CheckportWithTCP\bin\Debug\CheckportWithTCP.exe
+D:\New folder (2)\LTM\CheckportWithTCP\CheckportWithTCP\bin\Debug\CheckportWithTCP.pdb
+D:\New folder (2)\LTM\CheckportWithTCP\CheckportWithTCP\obj\Debug\CheckportWithTCP.csprojResolveAssemblyReference.cache
+D:\New folder (2)\LTM\CheckportWithTCP\CheckportWithTCP\obj\Debug\CheckportWithTCP.csproj.CoreCompileInputs.cache
+D:\New folder (2)\LTM\CheckportWithTCP\CheckportWithTCP\obj\Debug\CheckportWithTCP.exe
+D:\New folder (2)\LTM\CheckportWithTCP\CheckportWithTCP\obj\Debug\CheckportWithTCP.pdb
